@@ -1,0 +1,25 @@
+theme: jekyll-theme-minimal
+source: .
+baseurl: "/accueil"
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               Humanités Numériques (on GituHub)
+tagline:             'XLS'
+description:         'TEST'
+url:                 https://humanitesnumeriques.github.io/accueil/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              XLS
+  url:               https://twitter.com/xsalvador
+  email:            
+
+# Custom vars
+version:             1.0.0
