@@ -24,10 +24,12 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    <ul>
     {% for post in site.posts %}
     <li>
      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
+    </ul>
 {% endfor %}
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
