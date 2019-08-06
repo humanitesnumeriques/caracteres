@@ -12,7 +12,7 @@ title:               Caractères et Moeurs de ce temps
 tagline:             'XLS'
 description:         'Morale et Politique au XXIe siècle'
 url:                 https://humanitesnumeriques.github.io/carnetDesCaracteres/
-baseurl:             ''
+baseurl:             '/carnetDesCaracteres'
 paginate:            5
 
 # About/contact
