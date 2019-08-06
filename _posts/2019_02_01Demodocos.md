@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Thêatre(s)
+layout: post
+title: Thêatre(s)
 ---
 Échange avec les étudiants hier au sujet de l'empêchement par l'irruption avec violence de la pièce de Démodocos. Le grimage, pour eux, est évidemment raciste et l'intervention, évidemment justifiée.
 On réalise alors à quel point ils vivent dans un univers fondé sur des paradigmes à la fluidité insaisissable: ils condamnent, à juste titre, l'agression avec violence du trans à Opéra au prétexte qu'elle a le droit de s'habiller comme elle le veut puisque c'est l'expression de sa sincérité. "Elle a bien le droit de s'habiller comme ça". 
