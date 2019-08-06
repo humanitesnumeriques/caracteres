@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LA corruption est soeur de l'imposture, voilà pourquoi
+title: La corruption est soeur de l'imposture, voilà pourquoi
 ---
 Parmi les choses les plus frappantes qui caractérisent la dégradation des rapports entre l'Institution et le politique, il en est une réellement frappante: l'imposture érigée en art de gouverner.
 
