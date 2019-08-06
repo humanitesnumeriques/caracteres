@@ -1,6 +1,6 @@
 theme: jekyll-theme-time-machine
 source: .
-baseurl: "/caracteres"
+baseurl: "/carnetDesCaracteres"
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -11,7 +11,7 @@ permalink:           pretty
 title:               Caractères et Moeurs de ce temps
 tagline:             'XLS'
 description:         'Morale et Politique au XXIe siècle'
-url:                 https://humanitesnumeriques.github.io/caracteres/
+url:                 https://humanitesnumeriques.github.io/carnetDesCaracteres/
 baseurl:             ''
 paginate:            5
 
