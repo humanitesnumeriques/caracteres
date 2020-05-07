@@ -1,4 +1,8 @@
-** Brainstorm **
+---
+layout: post
+title: Brainstorming de déconfinement
+---
+[Brainstorm]
 - "Alors, bon, je vous ai réunis pour qu'on fasse un p'tit brainstorming "déconfinement". Moi, je veux, heu, un projet clair, simple, lisible. Deux zones: une blanche, une noire...
 - Ouais, mais attendez: on risque un effet de seuil, enfin de seuilling hein, sur les zones voisines et je pense qu'on devrait prendre en compte hein...
 - Ah ouais, mais ça m'arrange moyen parce que moi, j'avais dit un truc simple et....
