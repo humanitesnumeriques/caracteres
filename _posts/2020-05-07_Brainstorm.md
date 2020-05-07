@@ -1,0 +1,67 @@
+** Brainstorm **
+- "Alors, bon, je vous ai réunis pour qu'on fasse un p'tit brainstorming "déconfinement". Moi, je veux, heu, un projet clair, simple, lisible. Deux zones: une blanche, une noire...
+- Ouais, mais attendez: on risque un effet de seuil, enfin de seuilling hein, sur les zones voisines et je pense qu'on devrait prendre en compte hein...
+- Ah ouais, mais ça m'arrange moyen parce que moi, j'avais dit un truc simple et....
+- ... et je suis pas certaine que le choix des couleurs, enfin, on risque de provoquer des confusions. 
+- Bon, ben : on prend rouge ou vert ? C'est classique ça ?
+- Oui, on peut faire ça, c'est moins discriminant. Et on met du jaune pour les seuils ?
+- Vraiment ? 
+- Oui c'est mieux
+- Mais moi je trouve que ça induit une forme un peu carcérale de pensée: si il y a des gens qui trouvent que le rouge est joli, ils vont lire la carte à l'envers.
+- Qu'est-ce que vous proposez ?
+- Eh bien, on met des chiffres pour des zones et on laisse les gens choisir les couleurs appropriées. Genre zone 1, zone 2...
+- Ah non ! On va donner l'impression qu'on opère une hiérarchie dans la population entre des zones 1 et des zones 2 et des zones intermédiaires !
+- On trouve une symbolique de transposition ? On a qu'à faire des zones "étoiles", des zones "lune" et des zones "licornes".
+- Voilà, et on met des rectangles à côté, comme ça les gens colorient sur les contours et ils choisissent. 
+- Ahhhhhh
+- On a bien avancé. Alors, dans les zones "Licornes", on va faire là aussi très simple: on va limiter les déplacements à 100 kms autour du domicile.
+- Oui, c'est bien 100kms. 
+- Merci.
+- Mais, heu...;
+- Quoi ?
+- ....
+- ?
+- Tout droit ?
+- Comment ça: "tout droit" ?
+- Ben, je veux dire: il faut prendre en compte les situations complexes. Moi je connais bien M. Robert à Romans, il habite en haut d'une colline. Pour aller au marché, il prend la D114 qui fait 83 lacets - du coup, quand il descend à la ville, il fait plus de 100 bornes en virage. En revanche, il peut remonter par l'A136, qui est plus directe - du coup, il pourrait revenir de la ville mais pas y aller.
+- ?
+- Oui, ou alors il faudrait qu'il y aille mais "tout droit". Le truc, c'est qu'en sortant de la route, il va traverser la maison de Madame Denis. En plus, il y a 934 mètre de dénivelé en ligne droite. Je me demande du coup...
+- Bon, on dit "à vol d'oiseau" alors ?
+- Oui, c'est pas mal ça: "à vol d'oiseau". 
+- N'importe quel oiseau ?
+- ah oui, 100 km, c'est 100km, hein.
+- Je me demande quand même si on ne devrait pas l'annoncer en durée: "à 1h de chez vous" ?
+- Mais ça va pas non ? Et les bouchons ?
+- Ben ils n'auront plus d'attestation les pécores ? On ne saura pas à quelle heure ils sont sortis ?
+- Et alors ? Comment on les verbalise ?
+- Ah mince. Oui alors: "à vol d'oiseau"
+- Bon: on progresse.
+- Heu....
+-Quoi encore ?
+- Ben...
+- ? 
+- Dans n'importe quel sens ?
+- Pourquoi ? Vous voulez qu'ils creusent ?
+- Meuh non. Je veux dire: n'importe où ? Non parce que le préfet de l'Aubrac me fait remarquer que comme son département fait plus de 100km de large mais qu'il est frontalier avec les (je le cite) : "nazes de l'Aveyron", les gens de chez lui ne pourront pas voir leur famille à 130 bornes dans le département vert - pardon: "licorne" - alors que ceux de la zone rouge pourront faire 3 kms pour venir les polluer.
+- C'est pas pour ça qu'on a mis des zones jaunes ?
+- "Etoile"
+- Oui, pardon: "étoile"
+- Oui si. Mais du coup, il faut bien dire: "à vol d'oiseau dans tous les sens".
+- ....
+- Désolé.
+- Bon, enfin dernier point: le déconfinement des zones encore actives comme Mayotte. Bon là: on confine hein ? J'annonce, clair, précis, concis.
+- Ah oui, bien. Et comme ça on confine aussi Paris ?
+- Pourquoi ?
+- Ben c'est les mêmes chiffres
+- Non mais on ne va pas comparer Mayotte et Paris si ?
+- Ben, c'est vous le chef du territoire
+- Ah la la: qu'est ce que je dis moi ?
+- On confine Mayotte, on déconfine Paris.
+- ça passe ça ?
+- Bof, au point où on est rendu....
+- Bon alors je dis ça; ou alors, je fais appel à des mesures individuelles: on confine les personnes à risques ! C'est bon ça ? hein ?
+- Donc on annonce qu'on déconfine les zones dangereuses mais on met des mesures préventives pour les obèses, les vieux et les handicapés ? On va faire un carton là les enfants, des champions !
+- Ah oui, je ne peux pas dire ça...
+- Ben non.
+..........................
+- Bon, je résume: J'annonce qu'il y aura deux OU trois zones "étoiles", "licorne" et "dégradées" et que dans les zones-qui-ne-sont-pas-rouges-mais-quand-même on déconfine sauf à Mayotte tout en disant aux gens concernés mais pas tous, seuls les plus vulnérables mais sans les stygmatiser qu'ils peuvent sortir mais qu'en fait, il ne vaudrait mieux pas dans un rayon de 100 km autour de chez eux à vol d'oiseau dans tous les sens mais sans creuser ? C'est bon ? On y va ?
