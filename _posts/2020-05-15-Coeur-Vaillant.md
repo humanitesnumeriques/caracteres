@@ -3,7 +3,7 @@ layout: post
 title: A Vaillant Coeur, Rien Impossible
 ---
 
-Je vais vous raconter une histoire invraisemblable comme seule l'Institution est capable d'en produire. C'est un terreau tellement fertile pour l'imagination débridée et la jalousie que l'imposture - leur soeur jumelle - finit incontestablement par s'y épanouir comme une fleur humaine. Oui, car il existe des fleurs humaines, au même titre que l'on peut trouver un champignons ou une serre humaines. (Pardon...)
+Je vais vous raconter une histoire invraisemblable comme seule l'Institution est capable d'en produire. C'est un terreau tellement fertile pour l'imagination débridée et la jalousie que l'imposture - leur soeur jumelle - finit incontestablement par s'y épanouir comme une fleur humaine. Oui, car il existe des fleurs humaines, au même titre que l'on peut y trouver un champignon ou une serre humaine. (Pardon...)
 
 Disons que je connais quelqu'un qui, par esprit taquin et un peu provoc', signait ses mails à ses amis proches ou très proches d'un envoi en latin - d'une tournure empruntée à la prière eucharistique. Ça faisait intello, ça impressionnait le pécore. Et surtout, c'était un clin d'oeil un peu bravache et 'achement malin dans un milieu qui ne brille pas par sa tolérance d'esprit à l'égard du mystique, du symbole et du transcendant destiné à ses amis, comme ses frères. C'était une formule marrante, qui incitait au courage et qui ne sort pas d'un cadre intime.
 
