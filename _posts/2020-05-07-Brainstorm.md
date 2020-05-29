@@ -69,3 +69,5 @@ title: Brainstorming de déconfinement
 - Ben non.
 ..........................
 - Bon, je résume: J'annonce qu'il y aura deux OU trois zones "étoiles", "licorne" et "dégradées" et que dans les zones-qui-ne-sont-pas-rouges-mais-quand-même on déconfine sauf à Mayotte tout en disant aux gens concernés mais pas tous, seuls les plus vulnérables mais sans les stygmatiser qu'ils peuvent sortir mais qu'en fait, il ne vaudrait mieux pas dans un rayon de 100 km autour de chez eux à vol d'oiseau dans tous les sens mais sans creuser ? C'est bon ? On y va ?
+
+Xavier-Laurent Salvador
