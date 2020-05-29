@@ -19,3 +19,5 @@ Le vrai problème de ce mécanisme dont tout le monde connaît la force sans tou
 Voilà comment la décadence naît de la soif de pouvoir des politiques qui, au lieu de croire en la vérité, se complaisent dans la flatterie et encouragent la prévarication qui est source de corruption - la petite soeur de l'imposture. L'argent attire les imposteurs et leur permet de tuer leurs concurrents qui se plient à leur tour au jeu de l'imposture. En effet, puisque c'est dans l'appât du gain que naît la concurrence avec l''Institution, il ne faudrait que 5 minutes au Prince pour rectifier le tir. Mais l'argent qui domine nourrit les imposteurs de l'une et l'autre part également. 
 
 Il ne reste plus alors qu'à l'imposture de se prétendre Authentique, et c'est tout l'Univers qui s'effondre.
+
+Xavier-Laurent Salvador
