@@ -22,3 +22,5 @@ Et croyez moi si vous voulez, mais l'ironie touche à son comble: ce Bouvard-et-
 Mais il est protestant.
 
 xpdr.
+
+Xavier-Laurent Salvador
