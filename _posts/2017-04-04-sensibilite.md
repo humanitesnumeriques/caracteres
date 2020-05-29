@@ -12,3 +12,4 @@ Le tweet de Pivot a fait un peu parler. Moi je le trouve bien: il dit clairement
 
 Les politiques doivent défendre une idée, et c'est là-dessus qu'ils doivent être jugés par le nombre. Point. Il n'y a pas d'alternative au débat que le nombre de personnes qui adhèrent à un modèle: pour ou contre la propriété ? pour ou contre l'héritage ? etc.
 
+Xavier-Laurent Salvador
