@@ -14,3 +14,5 @@ Aussitôt récusée, la méthode Martégale se diffuse sur les réseaux sociaux.
 Alors que la chose ne coûte rien, elle semble avoir un impact sur le degré de diffusion de la maladie dans ces zones. Les laboratoires restent perplexes.
 
 Il en va de même de la recherche en littératures et en sciences humaines: des gens prennent la parole sanbs rien comprendre et imposent de coûteux traitements qui n'apportent rien, qui ruinent tout le monde et qui en somme ne font que répéter ce que tout le monde savait depuis 200 ans.
+
+Xavier-Laurent Salvador
