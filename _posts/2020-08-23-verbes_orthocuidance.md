@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orthologie: les verbes d'orthocuidance
+title: Les verbes d'orthocuidance
 ---
 
 Plutôt que “bien-pensance” - expression galvaudée et sans fondement - je vous invite désormais à préférer le terme « orthopensée » qui partage le même préfixe que les mots « orthographe » ou « orthopédiste ». 
