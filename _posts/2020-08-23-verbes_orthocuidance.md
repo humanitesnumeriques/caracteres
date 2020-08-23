@@ -1,5 +1,5 @@
 ---
-layout: title
+layout: post
 title: Orthologie: les verbes d'orthocuidance
 ---
 
