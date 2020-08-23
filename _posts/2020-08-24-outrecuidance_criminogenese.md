@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orthologie: orthocuidanc.e(s), système de négation et pensée criminogène
+title: Orthocuidanc.e(s) et pensée criminogène
 ---
 
 Je vous ai longuement parlé ces derniers jours des verbes que j'ai nommés "verbes d'orthocuidance" qui regroupent à ce jour les verbes "orthopenser" et "orthopiner". Nul n'est besoin de développer à outrance sur "orthocroire" et "orthocuider" qui, d'un emploi plus rare, sont en désuétude du fait de l'effondrement du système des religions dans l'Europe occidentale. Mais parions que l'émergence programmée d'une religion universelle de "l'Amour pour tous" rendra très vite utiles ces deux produits français à l'heure où l'on rallumera les premiers auto-da-fé si prompts à revivifier la foi des plus chancelants.
